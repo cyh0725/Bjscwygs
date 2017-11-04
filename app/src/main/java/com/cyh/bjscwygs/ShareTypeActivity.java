@@ -98,6 +98,7 @@ public class ShareTypeActivity extends Activity implements AdapterView.OnItemCli
         platName = getIntent().getStringExtra(KEY_PLAT_NAME);
         setTitle(platName+"分享类型选择");
         dataList = new ArrayList<>();
+
         if(platName.equals(SinaWeiboMessage.Name)){
             dataList.add(new ShareType("链接(有标题，有内容)", 3));
         }else {
