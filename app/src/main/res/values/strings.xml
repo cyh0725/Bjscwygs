@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">移动手机营业厅业务统计</string>
+    <string name="lb_phone">手机号码：</string>
+    <string name="lb_username">用户名：</string>
+    <string name="lb_yourshareqrcode">您的分享二维码：</string>
+    <string name="changeEmploy">您是公司员工？点击这里绑定工号</string>
+</resources>
